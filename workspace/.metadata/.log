@@ -1,4 +1,4 @@
-!SESSION 2015-11-06 10:03:53.638 -----------------------------------------------
+!SESSION 2015-11-06 10:21:36.872 -----------------------------------------------
 eclipse.buildId=4.4.2.M20150204-1700
 java.version=1.8.0_66
 java.vendor=Oracle Corporation
@@ -6,25 +6,25 @@ BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
 Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:04:23.837
+!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:21:57.195
 !MESSAGE System property http.proxyHost is not set but should be proxy.iut-orsay.fr.
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:04:23.848
+!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:21:57.203
 !MESSAGE System property http.proxyPort is not set but should be 3128.
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:04:23.854
+!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:21:57.207
 !MESSAGE System property https.proxyHost is not set but should be proxy.iut-orsay.fr.
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:04:23.859
+!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:21:57.211
 !MESSAGE System property https.proxyPort is not set but should be 3128.
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:04:23.864
+!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:21:57.216
 !MESSAGE System property https.proxyHost is not set but should be proxy.iut-orsay.fr.
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:04:23.868
+!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:21:57.220
 !MESSAGE System property https.proxyPort is not set but should be 3128.
 
-!ENTRY org.eclipse.egit.ui 2 0 2015-11-06 10:04:42.126
+!ENTRY org.eclipse.egit.ui 2 0 2015-11-06 10:22:04.458
 !MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
 Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
 The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
@@ -32,13 +32,13 @@ this system level configuration. The Git installation location can be configured
 Team > Git > Configuration preference page's 'System Settings' tab.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
-!ENTRY org.eclipse.egit.ui 2 0 2015-11-06 10:04:42.132
+!ENTRY org.eclipse.egit.ui 2 0 2015-11-06 10:22:04.469
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'Z:\'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-!SESSION 2015-11-06 10:10:51.124 -----------------------------------------------
+!SESSION 2015-11-13 09:30:40.486 -----------------------------------------------
 eclipse.buildId=4.4.2.M20150204-1700
 java.version=1.8.0_66
 java.vendor=Oracle Corporation
@@ -46,25 +46,25 @@ BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
 Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:11:03.451
+!ENTRY org.eclipse.core.net 1 0 2015-11-13 09:31:16.380
 !MESSAGE System property http.proxyHost is not set but should be proxy.iut-orsay.fr.
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:11:03.461
+!ENTRY org.eclipse.core.net 1 0 2015-11-13 09:31:16.402
 !MESSAGE System property http.proxyPort is not set but should be 3128.
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:11:03.466
+!ENTRY org.eclipse.core.net 1 0 2015-11-13 09:31:16.410
 !MESSAGE System property https.proxyHost is not set but should be proxy.iut-orsay.fr.
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:11:03.471
+!ENTRY org.eclipse.core.net 1 0 2015-11-13 09:31:16.416
 !MESSAGE System property https.proxyPort is not set but should be 3128.
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:11:03.478
+!ENTRY org.eclipse.core.net 1 0 2015-11-13 09:31:16.422
 !MESSAGE System property https.proxyHost is not set but should be proxy.iut-orsay.fr.
 
-!ENTRY org.eclipse.core.net 1 0 2015-11-06 10:11:03.483
+!ENTRY org.eclipse.core.net 1 0 2015-11-13 09:31:16.431
 !MESSAGE System property https.proxyPort is not set but should be 3128.
 
-!ENTRY org.eclipse.egit.ui 2 0 2015-11-06 10:11:11.133
+!ENTRY org.eclipse.egit.ui 2 0 2015-11-13 09:31:39.088
 !MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
 Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
 The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
@@ -72,7 +72,7 @@ this system level configuration. The Git installation location can be configured
 Team > Git > Configuration preference page's 'System Settings' tab.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
-!ENTRY org.eclipse.egit.ui 2 0 2015-11-06 10:11:11.173
+!ENTRY org.eclipse.egit.ui 2 0 2015-11-13 09:31:39.135
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'Z:\'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
